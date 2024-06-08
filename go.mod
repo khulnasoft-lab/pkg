@@ -10,6 +10,7 @@ require (
 	github.com/fatih/color v1.16.0
 	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/google/go-github/v53 v53.2.0
+	github.com/google/go-github/v62 v62.0.0
 	github.com/google/renameio/v2 v2.0.0
 	github.com/gosimple/slug v1.14.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
