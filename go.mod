@@ -1,11 +1,14 @@
 module go.jetpack.io/pkg
 
-go 1.21
+go 1.22
+
+toolchain go1.23.4
 
 require (
 	connectrpc.com/connect v1.16.0
 	github.com/cavaliergopher/grab/v3 v3.0.1
 	github.com/codeclysm/extract/v3 v3.1.1
+	github.com/codeclysm/extract/v4 v4.0.0
 	github.com/coreos/go-oidc/v3 v3.10.0
 	github.com/fatih/color v1.16.0
 	github.com/go-jose/go-jose/v3 v3.0.3
@@ -27,7 +30,7 @@ require (
 
 require (
 	github.com/ProtonMail/go-crypto v1.0.0 // indirect
-	github.com/arduino/go-paths-helper v1.12.0 // indirect
+	github.com/arduino/go-paths-helper v1.12.1 // indirect
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-jose/go-jose/v4 v4.0.1 // indirect
