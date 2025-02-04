@@ -21,7 +21,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.9.0
 	go.jetify.com/typeid v1.1.0
-	golang.org/x/oauth2 v0.19.0
+	golang.org/x/oauth2 v0.26.0
 	google.golang.org/protobuf v1.33.0
 )
 
