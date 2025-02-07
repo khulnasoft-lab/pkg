@@ -22,7 +22,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	go.jetify.com/typeid v1.1.0
 	golang.org/x/oauth2 v0.19.0
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.5
 )
 
 require (
